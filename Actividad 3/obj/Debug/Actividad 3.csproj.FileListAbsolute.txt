@@ -1,0 +1,34 @@
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csprojResolveAssemblyReference.cache
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\obj\Debug\Actividad_3.ImagenForm.resources
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\obj\Debug\Actividad_3.infGrafo.resources
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\obj\Debug\Actividad_3.Properties.Resources.resources
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csproj.GenerateResource.Cache
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csproj.CoreCompileInputs.cache
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.exe.config
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.exe
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\bin\Debug\Actividad 3.pdb
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.exe
+C:\Users\Manne25\source\repos\Actividad 3\Actividad 3\obj\Debug\Actividad 3.pdb
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\bin\Debug\Actividad 3.exe.config
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\bin\Debug\Actividad 3.exe
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\bin\Debug\Actividad 3.pdb
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csprojResolveAssemblyReference.cache
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\obj\Debug\Actividad_3.ImagenForm.resources
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\obj\Debug\Actividad_3.infGrafo.resources
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\obj\Debug\Actividad_3.Properties.Resources.resources
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csproj.GenerateResource.cache
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\obj\Debug\Actividad 3.csproj.CoreCompileInputs.cache
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\obj\Debug\Actividad 3.exe
+M:\CUCEI\4°\SALG\APP\Actividad 3\Actividad 3\obj\Debug\Actividad 3.pdb
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad 3.exe
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad 3.pdb
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\bin\Debug\Actividad 3.exe.config
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\bin\Debug\Actividad 3.exe
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\bin\Debug\Actividad 3.pdb
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad 3.csproj.AssemblyReference.cache
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad 3.csproj.SuggestedBindingRedirects.cache
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad_3.ImagenForm.resources
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad_3.infGrafo.resources
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad_3.Properties.Resources.resources
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad 3.csproj.GenerateResource.cache
+M:\University\UDG\4°\SALG\APP\Actividad 3 - copia\Actividad 3\obj\Debug\Actividad 3.csproj.CoreCompileInputs.cache
